@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavsandeep19" alt="yadavsandeep19" /></a> </p>
 
+
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sandeep-yadav-8974b327b" target="_blank">Follow on LinkedIn</a>
+
 <p align="left"> <a href="https://twitter.com/@sandeep1912005" target="blank"><img src="https://img.shields.io/twitter/follow/@sandeep1912005?logo=twitter&style=for-the-badge" alt="@sandeep1912005" /></a> </p>
 
 - 🔭 I’m currently working on **💻 Java Full Stack Developer | Backend Engineer**
